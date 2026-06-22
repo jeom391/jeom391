@@ -33,7 +33,7 @@ My role is to extend the project from device-level feasibility analysis to **sys
   - Lock Implementation and Analysis
 
 ### Android / Team Project
-- [Habit Intervention App](https://github.com/jeom391/habit-intervention-app)
+- [Habit Intervention App](https://github.com/hyunaway/OOSP_team10)
 
 ## ⚙️ Technical Skills
 
