@@ -43,4 +43,4 @@ My role is to extend the project from device-level feasibility analysis to **sys
 
 ## 📫 Contact
 
-- **Email:** ericsmart91@gmail.com
+- **Email:** jmhwang391@naver.com
