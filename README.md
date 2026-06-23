@@ -28,7 +28,7 @@ My role is to extend the project from device-level feasibility analysis to **sys
 
 ### Systems Course Projects
 - [Systems Course Projects](https://github.com/jeom391/systems-course-projects)
-  - SIC/XE Assembler
+  - SIC Assembler
   - miniC Compiler
   - Lock Implementation and Analysis
 
