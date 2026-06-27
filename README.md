@@ -31,6 +31,7 @@ My role is to extend the project from device-level feasibility analysis to **sys
   - SIC Assembler
   - miniC Compiler
   - Lock Implementation and Analysis
+  - mlfq scheduler simulation
 
 ### Android / Team Project
 - [Habit Intervention App](https://github.com/hyunaway/OOSP_team10)
