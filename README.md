@@ -28,10 +28,10 @@ My role is to extend the project from device-level feasibility analysis to **sys
 
 ### Systems Course Projects
 - [Systems Course Projects](https://github.com/jeom391/systems-course-projects)
-  - SIC Assembler
+  - SIC Assembler with SIC/XE Extension Plan
   - miniC Compiler
   - Lock Implementation and Analysis
-  - mlfq scheduler simulation
+  - MLFQ scheduler simulation
 
 ### Android / Team Project
 - [Habit Intervention App](https://github.com/hyunaway/OOSP_team10)
